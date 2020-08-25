@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-for-github-seven.vercel.app
-/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vclpjx4dhw3r8cplszvcg7ohx)
+[<img src="https://spotify-for-github-p84y521nj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vclpjx4dhw3r8cplszvcg7ohx)
