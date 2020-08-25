@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-for-github-seven.vercel.app
+/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vclpjx4dhw3r8cplszvcg7ohx)
