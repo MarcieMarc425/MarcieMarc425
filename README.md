@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 - 💼 Previously co-founded pet rescue startup @ Rescue Spot, New York 
 - 🌱 Currently learning about Java Spring, Machine Learning and Visualization, and the financial service vertical
 
-### What I'm listening to on Spotify 🎧
-
-[<img src="https://spotify-for-github-p84y521nj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/vclpjx4dhw3r8cplszvcg7ohx)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
