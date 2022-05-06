@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🔭 Ex Application Development Specialist @ Accenture, Hong Kong
 - 🧬 Ex Marketing Frontend Team Lead @ Prenetics, Hong Kong
 - 🔧 Ex Fullstack Engineer Intern @ Tencent, Shenzhen
+- 🖥 Current founder @ Scalinar, Hong Kong
 - 💼 Previously co-founded pet rescue startup @ Rescue Spot, New York 
 - 🌱 Currently learning about Java Spring, Machine Learning and Visualization, and the financial service vertical
 
