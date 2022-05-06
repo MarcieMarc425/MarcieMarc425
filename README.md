@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ## I'm a developer 🧑‍💻
 
-- 🔭 Currently working as Application Development Specialist @ Accenture, Hong Kong
-- 🧬 Ex Marketing Frontend Team Lead @ Prenetics, Hong Kong | 🔧 Ex Fullstack Engineer Intern @ Tencent, Shenzhen
+- 🏢 Current Assoc. Digital Lead @ AXA, Hong Kong
+- 🔭 Ex Application Development Specialist @ Accenture, Hong Kong
+- 🧬 Ex Marketing Frontend Team Lead @ Prenetics, Hong Kong
+- 🔧 Ex Fullstack Engineer Intern @ Tencent, Shenzhen
 - 💼 Previously co-founded pet rescue startup @ Rescue Spot, New York 
 - 🌱 Currently learning about Java Spring, Machine Learning and Visualization, and the financial service vertical
 
