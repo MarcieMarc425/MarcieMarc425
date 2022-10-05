@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🧬 Ex Marketing Frontend Team Lead @ Prenetics, Hong Kong
 - 🔧 Ex Fullstack Engineer Intern @ Tencent, Shenzhen
 - 💼 Previously co-founded pet rescue startup @ Rescue Spot, New York 
-- 🌱 Currently learning about Java Spring, Machine Learning and Visualization, and the financial service vertical
+- 🦀 Currently learning Rust and Golang
 
 ### Languages and Tools:
 
